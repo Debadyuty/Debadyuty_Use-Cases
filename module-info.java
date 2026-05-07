@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Ecommerce {
+module EmployeeManagementSystem {
 }
