@@ -4,5 +4,5 @@
 /**
  * 
  */
-module EmployeeManagementSystem {
+module HospitalApp {
 }
