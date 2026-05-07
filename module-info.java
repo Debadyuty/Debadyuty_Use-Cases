@@ -4,5 +4,5 @@
 /**
  * 
  */
-module BankingApp {
+module Ecommerce {
 }
