@@ -4,5 +4,5 @@
 /**
  * 
  */
-module FoodDeliveryApp {
+module EmployeeManagementSystem {
 }
