@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Debadyuty_Wipro {
+module BankingApp {
 }
